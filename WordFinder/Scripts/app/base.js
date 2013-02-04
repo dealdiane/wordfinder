@@ -1,0 +1,2 @@
+!(function (ko) {
+})(window.ko);
